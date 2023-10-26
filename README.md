@@ -1,7 +1,7 @@
 # Giris-Paneli-Csharp-Windows-Form
 ## Microsoft SQL bağlantılı C# Windows Form kullanıcı giriş paneli ve  mail doğrulamalı "Şifremi Unuttum" ekranı
 
-*Bu projede sql ile veritabanından alınan verilere göre giriş paneli yapımı ve şifremi unuttum paneli içerisinde mail yoluyla rastgele yeni şifre oluşturma işlemini gerçekleştirdim , aşağıdaki görsellerde form tasarımlarını ve sql içeriklerini görebilirsiniz.*
+*Bu projede sql ile veritabanından alınan verilere göre giriş paneli yapımı ve şifremi unuttum paneli içerisinde SMTP kütüphanesini kullanarak mail yoluyla rastgele yeni şifre oluşturma işlemini gerçekleştirdim , aşağıdaki görsellerde form tasarımlarını ve sql içeriklerini görebilirsiniz.*
 
 **Bu repoyu inceleyen herkese iyi çalışmalar dilerim.**
 
