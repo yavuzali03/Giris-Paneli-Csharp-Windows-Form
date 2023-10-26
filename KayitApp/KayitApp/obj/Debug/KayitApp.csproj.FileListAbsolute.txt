@@ -1,0 +1,12 @@
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\bin\Debug\KayitApp.exe.config
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\bin\Debug\KayitApp.exe
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\bin\Debug\KayitApp.pdb
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\obj\Debug\KayitApp.csproj.AssemblyReference.cache
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\obj\Debug\KayitApp.Form1.resources
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\obj\Debug\KayitApp.Properties.Resources.resources
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\obj\Debug\KayitApp.csproj.GenerateResource.cache
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\obj\Debug\KayitApp.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\obj\Debug\KayitApp.exe
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\obj\Debug\KayitApp.pdb
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\obj\Debug\KayitApp.Form3.resources
+C:\Users\Yavuz Ali Çarpar\source\repos\KayitApp\KayitApp\obj\Debug\KayitApp.Form2.resources
