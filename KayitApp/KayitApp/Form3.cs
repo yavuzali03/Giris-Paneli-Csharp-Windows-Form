@@ -28,8 +28,8 @@ namespace KayitApp
         SqlDataReader veriOkuma;
         SqlCommand komut;
 
-        string YenilemeMaili = "denemelikhesap03@hotmail.com";
-        string YenilemeSifresi = "Denemelik003";
+        string YenilemeMaili = "************@hotmail.com";
+        string YenilemeSifresi = "***********";
         string yeniSifre;
 
         private void button1_Click(object sender, EventArgs e)
